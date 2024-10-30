@@ -1,0 +1,24 @@
+math,5 - 1
+image,Lo3bgd
+math,3 + 8
+image,Bj3X44
+math,9 + 9
+image,Xv8R9V
+math,5 + 5
+image,Ao1aqY
+math,4 - 0
+image,Lk4I6h
+math,7 - 5
+image,Or7ZjO
+math,5 + 10
+image,Iq8UND
+math,10 + 6
+image,Sg2XRw
+math,7 - 2
+image,Fc38FC
+math,8 + 8
+image,El8x4A
+math,3 + 3
+image,Jp74du
+math,1 - 3
+math,6 + 10
